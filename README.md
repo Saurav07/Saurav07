@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Saurav 👋
 
 # 💫 About Me:
 A Design Thinker and Problem Solver passionate about transforming ideas into scalable digital solutions.<br>With 9+ years of experience in AI-driven operations, process automation, and immersive presentation technologies, I thrive at the intersection of business + tech + creativity.<br><br>💡 I enjoy:<br><br>Breaking complex workflows into simple, automated systems<br><br>Building delightful user experiences inside everyday tools like PowerPoint<br><br>Exploring how AI, ML, and product strategy work together to create real business value<br><br>Constant upskilling to stay relevant in the evolving tech world<br><br>🚀 What I’m currently focused on:<br><br>Transitioning into AI Product Management<br><br>Learning Machine Learning fundamentals, deployment, and DevOps essentials<br><br>Creating automation solutions and add-ins that make work faster and smarter<br><br>🔧 Tech Interests:<br>AI/ML • Automation • VSTO Add-ins • PowerPoint Engineering • NLP • APIs • CloudOps
